@@ -1,0 +1,10 @@
+{
+	"crawl": {
+		"delay": {
+			"hour": 8,
+			"minute": 15,
+			"second": 0
+		},
+		"number_of_pages": 10
+	}
+}
